@@ -20,3 +20,7 @@ Analyse program ... TODO
     + Mathematic/Algorithm -> what is necessary / what are logical sections
     + These sections deliver the process-diagram
     + which parts need implementation / which parts can be covered by libraries
++ 24.08.2021:
+  + Start main functionality of xraylarch through ginRex
+  + Go online w/ the program
+  + gitlab <-> github -> push (no push on github rn possible)
