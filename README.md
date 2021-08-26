@@ -18,7 +18,7 @@ For github (remote):
 ```
 git remote set-url --add --push origin https://github.com/San-WierPa/ginRex.git
 ```
-Finally, git push:
+Finally, git push (here: both branches are called development):
 ```
 git push origin development
 ```
