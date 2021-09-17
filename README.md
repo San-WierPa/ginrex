@@ -44,4 +44,3 @@ git push origin development
 + 24.08.2021:
   + Start main functionality of xraylarch through ginRex
   + Go online w/ the program
-  + gitlab <-> github -> push (no push on github rn possible)

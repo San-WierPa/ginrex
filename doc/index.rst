@@ -5,9 +5,6 @@
 
 .. mdinclude:: ../README.md
 
-Welcome to ginRex's documentation!
-==================================
-
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
