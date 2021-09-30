@@ -156,4 +156,7 @@ cython_debug/
 .history
 .ionide
 
+# single files
+mn_tippsLarch.txt
+
 # End of https://www.toptal.com/developers/gitignore/api/python,visualstudiocode

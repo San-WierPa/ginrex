@@ -23,6 +23,13 @@ Finally, git push (here: both branches are called development):
 git push origin development
 ```
 
+## Package build
++ Build all necessary packages that Python will require:
+```
+python setup.py sdist bdist_wheel
+```
+ + Note for anaconda users: Correct environment needs to be activated.
+
 ## TODO
 + 14.08.2021:
   + setup the setup.py
