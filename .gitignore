@@ -30,6 +30,7 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+# gui/
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
@@ -83,7 +84,8 @@ doc/make.bat
 target/
 
 # Jupyter Notebook
-.ipynb_checkpoints
+*.ipynb_checkpoints
+*.ipynb
 
 # IPython
 profile_default/
@@ -158,5 +160,11 @@ cython_debug/
 
 # single files
 mn_tippsLarch.txt
+
+# misc
+privat/
+
+# GUI
+ginrex/gui/*
 
 # End of https://www.toptal.com/developers/gitignore/api/python,visualstudiocode

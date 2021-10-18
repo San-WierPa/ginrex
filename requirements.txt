@@ -1,3 +1,11 @@
 xraylarch>=0.9.55
 pyside6>=6.1.2 
 shiboken6>=6.1.2
+# Linting/Tooling
+pylint
+flake8
+mypy
+isort
+black
+pre-commit
+autopep8
