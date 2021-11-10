@@ -44,10 +44,31 @@ python setup.py sdist bdist_wheel
     + Configfile -> self written pages
   + Workflow
     + Input -> what is and which datatype
-    + Output -> what is the goal, which datatype 
+    + Output -> what is the goal, which datatype
     + Mathematic/Algorithm -> what is necessary / what are logical sections
     + These sections deliver the process-diagram
     + which parts need implementation / which parts can be covered by libraries
 + 24.08.2021:
   + Start main functionality of xraylarch through ginRex
   + Go online w/ the program
+
+# Regarding metadata (21.10.2021)-> use of IGSN
+  + IGSN -> Metadata
+  + IGSN and DataCite
+  ## FAIR Sample data (joan damerow, berkely lab)
+  + Scope of ESS-DIVE. See "https://github.com/ess-dive-community/essdive-sample-id-metadata"
+  + "Benefit sof using IGSNs across facilities and data systems"
+  ## IGSN in the field with faims mobile (sean ross, faims project)
+  + github: "faims project" with Apache openSource
+  + e.g.: planned application in archaeology
+  + CSIRO approach
+  ## DataCite: PIDs for samples (matt buys, dataCite)
+  ## Australian research data commons (ARDC)
+  + Samples in the PID...
+  ## Companies UK:
+  + DataCite, OrciD, doi Crossref, Raid, Ror,
+  + Earthchem, astromat, sesar
+  ## RDA-alliance.org -> research data alliance (Esther plomp)
+  + Sample identifier
+
+  ## Important topic: PID

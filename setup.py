@@ -1,5 +1,7 @@
 from setuptools import find_packages, setup
 
+# from distutils.core import Extension, setup
+
 CLASSIFIERS = """\
 LICENSE :: OSI Approved
 "Programming Language :: Python :: 3"
@@ -40,6 +42,17 @@ metadata = dict(
     license=LICENSE,
 )
 
+# module1 = Extension("name1", sources=["unicodeChars.cs"])
+
+
+# def main() -> None:
+#    setup(
+#        name="uniChars",
+#        version="1.0.0",
+#        description="Unicode Characters from TREX.prj",
+#        ext_modules=[module1],
+#    )
+
 
 def setup_package() -> None:
     setup(**metadata)
@@ -47,3 +60,4 @@ def setup_package() -> None:
 
 if __name__ == "__main__":
     setup_package()
+    # main()
