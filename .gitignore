@@ -147,8 +147,10 @@ dmypy.json
 cython_debug/
 
 ### VisualStudioCode ###
-.vscode/*
+#.vscode/*
 *.code-workspace
+*.vscode
+
 
 # Local History for Visual Studio Code
 .history/
@@ -165,6 +167,19 @@ mn_tippsLarch.txt
 privat/
 
 # GUI
-ginrex/gui/*
+ginrex/ui/ui_raw/*
+*.ico
+*.png
+*.txt
 
 # End of https://www.toptal.com/developers/gitignore/api/python,visualstudiocode
+
+# c#.net
+ginrex/gr_cs/obj/*
+ginrex/gr_cs/bin/*
+ginrex/ginrex_CS/obj/*
+ginrex/ginrex_CS/bin/*
+ginrex/ginrex_CS/ginrex_cs/obj/*
+ginrex/ginrex_CS/ginrex_cs/bin/*
+*.csproj
+*.sln
