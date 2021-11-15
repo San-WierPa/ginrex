@@ -164,7 +164,7 @@ cython_debug/
 mn_tippsLarch.txt
 
 # misc
-privat/
+privat/*
 
 # GUI
 ginrex/ui/ui_raw/*
