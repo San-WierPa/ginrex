@@ -1,4 +1,4 @@
-xraylarch>=0.9.55
+#xraylarch>=0.9.55
 pyside6>=6.1.2 
 shiboken6>=6.1.2
 # Linting/Tooling
