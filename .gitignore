@@ -172,6 +172,9 @@ ginrex/ui/ui_raw/*
 *.png
 *.txt
 
+# Data
+*test_data
+
 # End of https://www.toptal.com/developers/gitignore/api/python,visualstudiocode
 
 # c#.net
