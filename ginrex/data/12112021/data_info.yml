@@ -1,0 +1,25 @@
+# entries is the day of the month and how many data samples
+version: 1
+username: sparipsa
+year: 2021
+month: 11
+entries:
+  - 12:
+       - 8:
+          comment: >
+            Das sind alles MEssungen bei tiefen Temperaturen (ca- 80 K)
+            Ich habe gerade ein bisschen gespielt, weil noch 10 Minuten Strahl da war.
+
+            Ein Datensatz: Scanzeit ca. 30 Minuten, am Ende des Spektrums mehrere
+            Sekunden Integrationszeit (6 Sekunden).
+            Dann einige Spektren, in etwa gleicher Energiebereich), wo die
+            Integrationszeit pro Datenpunkt auf 50 ms, 20 ms, 10 ms und zuletzt 5
+            ms heruntergesetzt wurde.
+
+            Es wäre jetzt mal interessant, wie das auf die Qualität
+            (Signal/Rauschverhältnis) und auch auf die Qualität der EXAFS-Fits
+            durchschlägt. Wenn da sinnvolle Daten bei rauskommen, dann könnte man
+            auch hier (zumindest für gewisse Proben) zeitaufgelöste Experimente
+            machen.
+            Wenn Du das machen würdest, könnten wir auch ein kleines Paper daraus
+            stricken (=erstes Puzzlestück für eine Dissertation ...)
