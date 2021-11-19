@@ -22,6 +22,7 @@ Finally, git push (here: both branches are called development):
 ```
 git push origin development
 ```
+.
 
 ## Package build
 + Build all necessary packages that Python will require:
@@ -51,4 +52,3 @@ python setup.py sdist bdist_wheel
 + 24.08.2021:
   + Start main functionality of xraylarch through ginRex
   + Go online w/ the program
-
