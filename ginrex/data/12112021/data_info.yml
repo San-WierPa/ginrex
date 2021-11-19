@@ -7,19 +7,15 @@ entries:
   - 12:
        - 8:
           comment: >
-            Das sind alles MEssungen bei tiefen Temperaturen (ca- 80 K)
-            Ich habe gerade ein bisschen gespielt, weil noch 10 Minuten Strahl da war.
+            All measurements @ approximately 80 K.
 
-            Ein Datensatz: Scanzeit ca. 30 Minuten, am Ende des Spektrums mehrere
-            Sekunden Integrationszeit (6 Sekunden).
-            Dann einige Spektren, in etwa gleicher Energiebereich), wo die
-            Integrationszeit pro Datenpunkt auf 50 ms, 20 ms, 10 ms und zuletzt 5
-            ms heruntergesetzt wurde.
+            One data-sample: Scanzeit about 30 min. At the end of the spectrum multiple
+            seconds integration-time (6 sec).
+            A few spectras with similar energy-range. Integration-time/datapoint down to
+            50 ms, 20 ms, 10 ms, and lastly 5 ms.
 
-            Es wäre jetzt mal interessant, wie das auf die Qualität
-            (Signal/Rauschverhältnis) und auch auf die Qualität der EXAFS-Fits
-            durchschlägt. Wenn da sinnvolle Daten bei rauskommen, dann könnte man
-            auch hier (zumindest für gewisse Proben) zeitaufgelöste Experimente
-            machen.
-            Wenn Du das machen würdest, könnten wir auch ein kleines Paper daraus
-            stricken (=erstes Puzzlestück für eine Dissertation ...)
+            Checking the quality:
+            Signal/Noise-ratio and how this changes the quality of the EXAFS-fits.
+
+            Any senseful data-results:
+            For certain samples time-resolved experiments can be done.
