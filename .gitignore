@@ -171,6 +171,7 @@ ginrex/ui/ui_raw/*
 *.ico
 *.png
 *.txt
+*_frstV.py
 
 # Data
 *test_data
