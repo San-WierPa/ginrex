@@ -15,7 +15,7 @@ bracex==2.1.1
 certifi==2021.5.30
 cffi==1.14.6
 charset-normalizer==2.0.6
-click==7.1.2
+click>=7.1.2
 click-option-group==0.5.3
 colorama==0.4.4
 cycler==0.11.0
