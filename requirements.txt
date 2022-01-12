@@ -29,7 +29,7 @@ docutils==0.17.1
 entrypoints==0.3
 fett==0.3.2
 future==0.18.2
--e git+https://git.uni-wuppertal.de/ag-dlh/reflexafs-data-pipeline.git@5b9cf9dfcaca8603cfd8c000078bc81b04d1c890#egg=ginRex
+#-e git+https://git.uni-wuppertal.de/ag-dlh/reflexafs-data-pipeline.git@5b9cf9dfcaca8603cfd8c000078bc81b04d1c890#egg=ginRex
 gitdb==4.0.7
 GitPython==3.1.24
 h5py==3.6.0
