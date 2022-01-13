@@ -6,11 +6,11 @@ import sys
 
 import PySimpleGUI as sg
 from ginrex.ui.firstwindow import make_firstWdw
-from ginrex.ui.tabgroup import UI_TabWindow
+from ginrex.ui.tabgroup import UITabWindow
 from PyQt6.QtWidgets import QApplication, QMainWindow
 
 
-class Window(QMainWindow, UI_TabWindow):
+class Window(QMainWindow, UITabWindow):
     """
     Delegates all imported window-methods.
     """
