@@ -22,7 +22,21 @@ Finally, git push (here: both branches are called development):
 ```
 git push origin development
 ```
-.
+## Git lfs (large file storage)
++ Installation via
+```
+git lfs install
+```
+Tracking of files, which should be managed via Git lfs via:
+```
+git lfs track "*.fileformat"
+```
+**_NOTE:_**  ```cd large-file-directory``` and track.<br>
+Make sure ```.gitattributes``` is tracked:
+```
+git add .gitattributes
+```
+
 
 ## Package build
 + Build all necessary packages that Python will require:
