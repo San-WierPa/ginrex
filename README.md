@@ -16,7 +16,7 @@ git remote set-url --add --push origin https://git.uni-wuppertal.de/ag-dlh/refle
 ```
 For github (remote):
 ```
-git remote set-url --add --push origin https://github.com/San-WierPa/ginRex.git
+git remote set-url --add --push origin https://github.com/San-WierPa/ginrex.git
 ```
 Finally, git push (here: both branches are called development):
 ```
