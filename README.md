@@ -38,9 +38,13 @@ Make sure ```.gitattributes``` is tracked:
 git add .gitattributes
 ```
 **_TROUBLESHOOT:_** In case, git push origin development not works (or something went sideways while
-dealing with two git's), just use
+dealing with two git's), just use:
 ```
 git push https://git.uni-wuppertal.de/ag-dlh/reflexafs-data-pipeline.git main
+```
+and
+```
+git push https://github.com/San-WierPa/ginrex.git main
 ```
 
 
