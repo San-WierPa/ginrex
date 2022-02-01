@@ -14,7 +14,7 @@ For gitlab (main):
 ```
 git remote set-url --add --push origin https://git.uni-wuppertal.de/ag-dlh/reflexafs-data-pipeline.git
 ```
-For github (remote):
+For github (development):
 ```
 git remote set-url --add --push origin https://github.com/San-WierPa/ginrex.git
 ```
@@ -31,10 +31,16 @@ Tracking of files, which should be managed via Git lfs via:
 ```
 git lfs track "*.fileformat"
 ```
+
 **_NOTE:_**  ```cd large-file-directory``` and track.<br>
 Make sure ```.gitattributes``` is tracked:
 ```
 git add .gitattributes
+```
+**_Troubleshoot_** In case, git push origin development not works (or something went sideways while
+dealing with two git's), just use
+```
+git push https://git.uni-wuppertal.de/ag-dlh/reflexafs-data-pipeline.git main
 ```
 
 
