@@ -7,8 +7,9 @@ year: 2022
 month: 02
 edges: {K, L1, L2, L3, M1, M2, M3}
 entries:
-  - 1: H Hydrogen	1.00794
+  - 1: H Hydrogen
       - 1-K: 13.6
+            - 1-u: 1.00794
   - 2: He  Helium	4.002602
       - 2-K: 24.6
   - 3: Li  Lithium	6.941
